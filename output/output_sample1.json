@@ -1,0 +1,34 @@
+{
+  "patient_name": "PTSD WHIPLASH",
+  "dob": "Age 50",
+  "date": "03/01/2007",
+  "injection": "No",
+  "exercise_therapy": "No",
+  "difficulty_ratings": {
+    "bending": 0,
+    "putting_on_shoes": 0,
+    "sleeping": 0
+  },
+  "patient_changes": {
+    "since_last_treatment": null,
+    "since_start_of_treatment": null,
+    "last_3_days": "Bad"
+  },
+  "pain_symptoms": {
+    "Pain": 0,
+    "Numbness": 0,
+    "Tingling": 0,
+    "Burning": 0,
+    "Tightness": 0
+  },
+  "medical_assistant_data": {
+    "blood_pressure": null,
+    "hr": null,
+    "weight": null,
+    "height": null,
+    "spo2": null,
+    "temperature": null,
+    "blood_glucose": null,
+    "respirations": null
+  }
+}
